@@ -15,12 +15,12 @@ Combination Fonts with [Roboto](https://github.com/googlefonts/roboto/releases/d
 
 ### 2. Windows with Regedit (Replace Segoe UI)
 
-#### Replace `Segoe UI` to `RobotoCJKSC`
+#### Replace `Segoe UI` & `Arial` to `RobotoCJKSC`
 
 1. Download [Reg/Replace.reg](https://github.com/akiirui/RobotoCJKSC/raw/master/Reg/Replace.reg)
 2. Apply `Replace.reg`
 
-#### Restore `RobotoCJKSC` to `Segoe UI`
+#### Restore `RobotoCJKSC` to `Segoe UI` & `Arial`
 
 1. Download [Reg/Restore.reg](https://github.com/akiirui/RobotoCJKSC/raw/master/Reg/Restore.reg)
 2. Apply `Restore.reg`
